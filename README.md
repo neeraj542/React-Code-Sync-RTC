@@ -14,3 +14,8 @@ For interviewees, CODESYNC provides an interactive and dynamic coding environmen
  - Real-Time Collaboration: Seamless collaboration for interviewers to assess candidates collectively.
  - Authentic Coding Environment: An environment that mirrors real-world coding challenges.
  - User-Friendly Interface: Intuitive design for a smooth user experience.
+
+
+
+## Under Development - Important links
+ - GPT References: https://chat.openai.com/share/f706d81c-85c3-48cb-891e-45458aef7193
