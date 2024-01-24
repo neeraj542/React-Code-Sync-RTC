@@ -1,2 +1,2 @@
 
-## Real-Time Communication Web Application using React-JS
+## CODESYNC - Real-Time Communication Web Application using React-JS
